@@ -7,6 +7,6 @@ Contract #2 - Platformer Level Generator -
 
 Contract #3 - Platformer Entity Generator - 
 
-Contract #4 - Platformer Entity Reskinning - James Gill - atdeJimmyG
+Contract #4 - Platformer Entity Reskinning - [James Gill](https://github.com/atdeJimmyG)
 
 Contract #5 - Colour Blindness User Interface Analysis Tool - 
